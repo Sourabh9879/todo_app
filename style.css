@@ -141,6 +141,10 @@ textarea::-webkit-scrollbar {
 .clear-button:hover {
   background-color: #0e4bf1;
 }
+.txt{
+  text-align: center;
+  margin-top: 300px;
+}
 @media screen and (max-width: 350px) {
   .container {
     padding: 25px 10px;
